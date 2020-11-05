@@ -1,0 +1,7 @@
+﻿  GameOfLife.cpp
+  Grid.cpp
+  Timing.cpp
+  Generating code
+  All 570 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameOfLife.vcxproj -> D:\DanielPers\Master\Semester 1\EfizienteProgrammierung\ProjectsClass\GameOfLife\GameOfLife\Release\GameOfLife.exe
